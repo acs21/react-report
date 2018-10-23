@@ -1,0 +1,318 @@
+{
+    "bookings": {
+        "size": 25,
+        "updatedAt": "2018-10-23T07:48:25.361Z",
+        "data": [
+            {
+                "quantity": 125000,
+                "startDate": "2018-10-12T23:59:59.999Z",
+                "endDate": "2018-10-26T00:00:00.000Z",
+                "productId": "bbd3f603-7622-43ea-9bda-b98d4c729ec2",
+                "name": "Handcrafted channels",
+                "id": "346bb1a4-2b24-4299-bd2a-3e935e7119dd"
+            },
+            {
+                "quantity": 250000,
+                "startDate": "2018-10-08T23:59:59.999Z",
+                "endDate": "2018-10-16T23:59:59.999Z",
+                "productId": "a610e724-e3ae-4367-afbc-c28308c2c964",
+                "name": "Rustic paradigms",
+                "id": "9fd5544f-96f9-417c-90e6-883b8aaff24e"
+            },
+            {
+                "quantity": 700000,
+                "startDate": "2018-11-04T00:00:00.000Z",
+                "endDate": "2018-11-02T00:00:00.000Z",
+                "productId": "79ce1ad0-df6b-474b-8084-68cde5ab0370",
+                "name": "Tasty action-items",
+                "id": "781fb0bb-88ff-4a53-bf83-440a4b292f14"
+            },
+            {
+                "quantity": 106609,
+                "startDate": "2018-10-19T23:59:59.999Z",
+                "endDate": "2018-10-28T00:00:00.000Z",
+                "productId": "bbd3f603-7622-43ea-9bda-b98d4c729ec2",
+                "name": "Refined e-business",
+                "id": "a7adfe8c-2118-4704-8629-dc06cbcdbe7e"
+            },
+            {
+                "quantity": 650000,
+                "startDate": "2018-10-01T00:00:00.000Z",
+                "endDate": "2018-10-31T23:59:59.999Z",
+                "productId": "2701ae2a-2399-4dcc-816d-c166cf855678",
+                "name": "Unbranded relationships",
+                "id": "1a7f19c1-b741-4d89-adda-b752ecfcbb13"
+            },
+            {
+                "quantity": 73333,
+                "startDate": "2018-10-01T00:00:00.000Z",
+                "endDate": "2018-10-11T00:00:00.000Z",
+                "productId": "a610e724-e3ae-4367-afbc-c28308c2c964",
+                "name": "Small metrics",
+                "id": "cf35f9a4-4c79-43e7-8b5b-634f6109438d"
+            },
+            {
+                "quantity": 21322,
+                "startDate": "2018-10-02T00:00:00.000Z",
+                "endDate": "2018-10-12T00:00:00.000Z",
+                "productId": "a610e724-e3ae-4367-afbc-c28308c2c964",
+                "name": "Handmade niches",
+                "id": "59a6e7e3-4a04-44c0-8e82-58290539f13a"
+            },
+            {
+                "quantity": 73333,
+                "startDate": "2018-10-08T23:59:59.999Z",
+                "endDate": "2018-10-13T23:59:59.999Z",
+                "productId": "18bd35b4-814b-499f-9668-d0eeda44ca3a",
+                "name": "Ergonomic mindshare",
+                "id": "d125c183-92d2-4e3d-afc1-aa7dff35befb"
+            },
+            {
+                "quantity": 250000,
+                "startDate": "2018-10-27T00:00:00.000Z",
+                "endDate": "2018-10-26T00:00:00.000Z",
+                "productId": "79ce1ad0-df6b-474b-8084-68cde5ab0370",
+                "name": "Handcrafted action-items",
+                "id": "d987875f-6162-46af-8641-55a932286aa8"
+            },
+            {
+                "quantity": 73333,
+                "startDate": "2018-10-08T23:59:59.999Z",
+                "endDate": "2018-10-17T23:59:59.999Z",
+                "productId": "2701ae2a-2399-4dcc-816d-c166cf855678",
+                "name": "Rustic infomediaries",
+                "id": "7b1a7cf0-5fd2-4d84-a2ce-629576adb421"
+            },
+            {
+                "quantity": 106609,
+                "startDate": "2018-10-01T00:00:00.000Z",
+                "endDate": "2018-10-31T23:59:59.999Z",
+                "productId": "0409811c-8a79-41aa-901a-834ab74eefea",
+                "name": "Fantastic vortals",
+                "id": "9e6dd8fd-008b-4010-99cd-81d2f3192f12"
+            },
+            {
+                "quantity": 106609,
+                "startDate": "2018-10-26T00:00:00.000Z",
+                "endDate": "2018-10-23T00:00:00.000Z",
+                "productId": "2701ae2a-2399-4dcc-816d-c166cf855678",
+                "name": "Small portals",
+                "id": "ba795d37-38d1-415a-b3e7-1944227965ef"
+            },
+            {
+                "quantity": 125000,
+                "startDate": "2018-10-15T23:59:59.999Z",
+                "endDate": "2018-11-06T00:00:00.000Z",
+                "productId": "79ce1ad0-df6b-474b-8084-68cde5ab0370",
+                "name": "Refined action-items",
+                "id": "401a996f-63d2-48e5-866d-c899875af5d2"
+            },
+            {
+                "quantity": 250000,
+                "startDate": "2018-10-18T23:59:59.999Z",
+                "endDate": "2018-10-29T00:00:00.000Z",
+                "productId": "a63f97e3-e6ce-4aa1-bfde-09ef018a4f85",
+                "name": "Refinedinitiatives",
+                "id": "aa8ac51f-7cdd-4da0-9d6e-b12fdd2dfcff"
+            },
+            {
+                "quantity": 250000,
+                "startDate": "2018-11-05T00:00:00.000Z",
+                "endDate": "2018-10-29T00:00:00.000Z",
+                "productId": "1937416a-d4e4-4b2b-956e-a57959b93335",
+                "name": "Awesome bandwidth",
+                "id": "5d41c45b-ca1b-4318-bc37-79bb874a47e5"
+            },
+            {
+                "quantity": 25000,
+                "startDate": "2018-11-05T00:00:00.000Z",
+                "endDate": "2018-10-30T00:00:00.000Z",
+                "productId": "18bd35b4-814b-499f-9668-d0eeda44ca3a",
+                "name": "Licensed channels",
+                "id": "13badec8-a39e-4446-9edb-ab67af8bb40b"
+            },
+            {
+                "quantity": 106609,
+                "startDate": "2018-10-31T00:00:00.000Z",
+                "endDate": "2018-10-24T00:00:00.000Z",
+                "productId": "bbd3f603-7622-43ea-9bda-b98d4c729ec2",
+                "name": "Small bandwidth",
+                "id": "97cddc97-a17a-45ac-a28f-294a0d49b8e1"
+            },
+            {
+                "quantity": 250000,
+                "startDate": "2018-11-05T00:00:00.000Z",
+                "endDate": "2018-11-01T00:00:00.000Z",
+                "productId": "0409811c-8a79-41aa-901a-834ab74eefea",
+                "name": "Handmade partnerships",
+                "id": "f2128ba6-d216-4802-96b1-2de732d61479"
+            },
+            {
+                "quantity": 41667,
+                "startDate": "2018-10-01T00:00:00.000Z",
+                "endDate": "2018-10-31T23:59:59.999Z",
+                "productId": "a63f97e3-e6ce-4aa1-bfde-09ef018a4f85",
+                "name": "Tasty initiatives",
+                "id": "b0c77466-d8de-4efb-a5c4-943175908bb3"
+            },
+            {
+                "quantity": 55000,
+                "startDate": "2018-10-12T23:59:59.999Z",
+                "endDate": "2018-10-26T00:00:00.000Z",
+                "productId": "18bd35b4-814b-499f-9668-d0eeda44ca3a",
+                "name": "Gorgeous eyeballs",
+                "id": "085c2baa-e42a-456b-bb5a-2a39193b48b9"
+            },
+            {
+                "quantity": 106609,
+                "startDate": "2018-10-01T00:00:00.000Z",
+                "endDate": "2018-10-31T23:59:59.999Z",
+                "productId": "2701ae2a-2399-4dcc-816d-c166cf855678",
+                "name": "Handcrafted applications",
+                "id": "7d6ea747-0e25-4d76-8dbf-587df6addf71"
+            },
+            {
+                "quantity": 125000,
+                "startDate": "2018-10-01T00:00:00.000Z",
+                "endDate": "2018-10-31T23:59:59.999Z",
+                "productId": "a610e724-e3ae-4367-afbc-c28308c2c964",
+                "name": "Fantastic convergence",
+                "id": "b9dd3645-2746-4749-8541-1dd2f9d954ad"
+            },
+            {
+                "quantity": 125000,
+                "startDate": "2018-10-30T00:00:00.000Z",
+                "endDate": "2018-10-25T00:00:00.000Z",
+                "productId": "1937416a-d4e4-4b2b-956e-a57959b93335",
+                "name": "Tasty metrics",
+                "id": "90caae41-e995-4698-b859-038053a56985"
+            },
+            {
+                "quantity": 21322,
+                "startDate": "2018-10-01T00:00:00.000Z",
+                "endDate": "2018-10-31T23:59:59.999Z",
+                "productId": "2701ae2a-2399-4dcc-816d-c166cf855678",
+                "name": "Licensed convergence",
+                "id": "bcc0e5b6-6adb-4ef3-ad0f-88ac3ed06d6a"
+            },
+            {
+                "quantity": 125000,
+                "startDate": "2018-10-01T00:00:00.000Z",
+                "endDate": "2018-10-31T23:59:59.999Z",
+                "productId": "a610e724-e3ae-4367-afbc-c28308c2c964",
+                "name": "Intelligent schemas",
+                "id": "ea438675-da3b-4dda-a530-61def25436e5"
+            }
+        ]
+    },
+    "products": {
+        "size": 8,
+        "data": [
+            {
+                "rate": 1400,
+                "sellerId": "6c01ab94-d9e8-45cf-a8b8-e90cb8c5d42a",
+                "name": "Small Desktop Run of Section BTF Half Page",
+                "id": "2701ae2a-2399-4dcc-816d-c166cf855678"
+            },
+            {
+                "rate": 700,
+                "sellerId": "9b483287-4880-412e-9ca5-45ef50c9d957",
+                "name": "Large Tablet Run of Section ATF Interstitial",
+                "id": "1937416a-d4e4-4b2b-956e-a57959b93335"
+            },
+            {
+                "rate": 1400,
+                "sellerId": "d73038b7-2cf5-4273-a144-a8c5999ba85a",
+                "name": "Medium Tablet Run of Site ATF Rectangle",
+                "id": "a63f97e3-e6ce-4aa1-bfde-09ef018a4f85"
+            },
+            {
+                "rate": 1400,
+                "sellerId": "ea9eefc6-baaa-4f7d-b848-9a23b1169089",
+                "name": "Medium Desktop Run of Section ATF Interstitial",
+                "id": "bbd3f603-7622-43ea-9bda-b98d4c729ec2"
+            },
+            {
+                "rate": 1400,
+                "sellerId": "ea9eefc6-baaa-4f7d-b848-9a23b1169089",
+                "name": "Small Tablet Homepage BTF Interstitial",
+                "id": "0409811c-8a79-41aa-901a-834ab74eefea"
+            },
+            {
+                "rate": 1000,
+                "sellerId": "6c01ab94-d9e8-45cf-a8b8-e90cb8c5d42a",
+                "name": "Medium Tablet Homepage ATF Half Page",
+                "id": "a610e724-e3ae-4367-afbc-c28308c2c964"
+            },
+            {
+                "rate": 1400,
+                "sellerId": "c6a863c0-7cc6-4823-bb4c-4f879d75c309",
+                "name": "Large Tablet Search BTF Rectangle",
+                "id": "18bd35b4-814b-499f-9668-d0eeda44ca3a"
+            },
+            {
+                "rate": 1300,
+                "sellerId": "9b483287-4880-412e-9ca5-45ef50c9d957",
+                "name": "Medium Desktop Run of Section BTF Banner",
+                "id": "79ce1ad0-df6b-474b-8084-68cde5ab0370"
+            }
+        ]
+    },
+    "sellers": {
+        "size": 13,
+        "data": [
+            {
+                "id": "6c01ab94-d9e8-45cf-a8b8-e90cb8c5d42a",
+                "name": "Ledner and Sons"
+            },
+            {
+                "id": "a51fa252-fa0d-4d1c-96f9-9bca1bf394c1",
+                "name": "Hickle - Stark"
+            },
+            {
+                "id": "81cc4937-03a7-431a-90f4-dbf061a0776d",
+                "name": "Bruen - Ferry"
+            },
+            {
+                "id": "6ce51e3d-a6ad-4d60-95b1-849a8a959ad0",
+                "name": "Borer, Rowe and Kassulke"
+            },
+            {
+                "id": "9b483287-4880-412e-9ca5-45ef50c9d957",
+                "name": "O'Hara, Carter and Nolan"
+            },
+            {
+                "id": "c6a863c0-7cc6-4823-bb4c-4f879d75c309",
+                "name": "Boyle - Frami"
+            },
+            {
+                "id": "1637a8ad-99be-4f82-8d8a-674c83ef5946",
+                "name": "Thompson Group"
+            },
+            {
+                "id": "d73038b7-2cf5-4273-a144-a8c5999ba85a",
+                "name": "Durgan LLC"
+            },
+            {
+                "id": "dc31d98d-e708-4af2-b5e1-ebf3dc3feedf",
+                "name": "Crist and Sons"
+            },
+            {
+                "id": "bbd38110-a484-4dd5-97f2-923a423abcfa",
+                "name": "Blanda Group"
+            },
+            {
+                "id": "ea9eefc6-baaa-4f7d-b848-9a23b1169089",
+                "name": "Kertzmann, Hodkiewicz and Koch"
+            },
+            {
+                "id": "1026d857-b1f3-4a4f-9ac5-d96d8f0062f1",
+                "name": "Morissette and Sons"
+            },
+            {
+                "id": "688e83fc-7a3d-4f46-812d-60546e951af3",
+                "name": "Purdy, Rau and Walsh"
+            }
+        ]
+    }
+}

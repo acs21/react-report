@@ -1,0 +1,19 @@
+.brand-logo {
+  font-weight: bold;
+}
+.page-header {
+  border-bottom: 1px solid #dadada;
+  padding-bottom: .2em;
+  vertical-align: middle;
+}
+.page-heading {
+  font-size: 1.9em;
+}
+.search-bar {
+  text-align: right;
+  border-radius: .25rem;
+  padding: .35rem;
+  border: 1px solid #ced4da;
+  box-sizing: border-box;
+  width: 30%;
+}

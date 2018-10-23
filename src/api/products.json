@@ -1,0 +1,53 @@
+{
+    "size": 8,
+    "data": [
+        {
+            "rate": 1400,
+            "sellerId": "6c01ab94-d9e8-45cf-a8b8-e90cb8c5d42a",
+            "name": "Small Desktop Run of Section BTF Half Page",
+            "id": "2701ae2a-2399-4dcc-816d-c166cf855678"
+        },
+        {
+            "rate": 700,
+            "sellerId": "9b483287-4880-412e-9ca5-45ef50c9d957",
+            "name": "Large Tablet Run of Section ATF Interstitial",
+            "id": "1937416a-d4e4-4b2b-956e-a57959b93335"
+        },
+        {
+            "rate": 1400,
+            "sellerId": "d73038b7-2cf5-4273-a144-a8c5999ba85a",
+            "name": "Medium Tablet Run of Site ATF Rectangle",
+            "id": "a63f97e3-e6ce-4aa1-bfde-09ef018a4f85"
+        },
+        {
+            "rate": 1400,
+            "sellerId": "ea9eefc6-baaa-4f7d-b848-9a23b1169089",
+            "name": "Medium Desktop Run of Section ATF Interstitial",
+            "id": "bbd3f603-7622-43ea-9bda-b98d4c729ec2"
+        },
+        {
+            "rate": 1400,
+            "sellerId": "ea9eefc6-baaa-4f7d-b848-9a23b1169089",
+            "name": "Small Tablet Homepage BTF Interstitial",
+            "id": "0409811c-8a79-41aa-901a-834ab74eefea"
+        },
+        {
+            "rate": 1000,
+            "sellerId": "6c01ab94-d9e8-45cf-a8b8-e90cb8c5d42a",
+            "name": "Medium Tablet Homepage ATF Half Page",
+            "id": "a610e724-e3ae-4367-afbc-c28308c2c964"
+        },
+        {
+            "rate": 1400,
+            "sellerId": "c6a863c0-7cc6-4823-bb4c-4f879d75c309",
+            "name": "Large Tablet Search BTF Rectangle",
+            "id": "18bd35b4-814b-499f-9668-d0eeda44ca3a"
+        },
+        {
+            "rate": 1300,
+            "sellerId": "9b483287-4880-412e-9ca5-45ef50c9d957",
+            "name": "Medium Desktop Run of Section BTF Banner",
+            "id": "79ce1ad0-df6b-474b-8084-68cde5ab0370"
+        }
+    ]
+}
